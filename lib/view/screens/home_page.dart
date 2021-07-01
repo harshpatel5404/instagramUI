@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:instagramui/widgets/Iconcontainer.dart';
+import 'package:instagramui/view/screens/second_screen.dart';
+import 'package:instagramui/view/screens/third_screen.dart';
+import 'package:instagramui/view/widgets/Iconcontainer.dart';
+import 'package:instagramui/view/widgets/textcontainer.dart';
 import 'package:instagramui/widgets/profile.dart';
-import 'package:instagramui/screens/second_screen.dart';
-import 'package:instagramui/widgets/textcontainer.dart';
-import 'package:instagramui/screens/third_screen.dart';
+
 class MyHome extends StatefulWidget {
   const MyHome({Key? key}) : super(key: key);
 

@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
+import 'package:instagramui/view/widgets/textcontainer.dart';
 import 'package:instagramui/widgets/profile.dart';
-import 'package:instagramui/widgets/textcontainer.dart';
 
 class SecondScreen extends StatefulWidget {
   final setimg;
